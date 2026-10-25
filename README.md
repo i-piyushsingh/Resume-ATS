@@ -2,7 +2,7 @@
 
 **Your next role starts with a sharper story.** Resumely is a full-stack web app that turns a good resume into a confident application. Upload your resume, run a free resume signal check, and see what recruiters and ATS systems notice first.
 
-![Resumely login page](screenshots/login.png)
+![Resumely login page](login.png)
 
 ## Features
 
